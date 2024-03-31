@@ -1,4 +1,4 @@
-global.creator = `@neoxr.js – Wildan Izzudin`
+global.creator = `mr.one`
 const fastify = require('fastify')({
    logger: true
 })
